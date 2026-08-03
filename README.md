@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-animated.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banner-animated.svg">
-  <img src="banner-animated.svg" width="100%" alt="profile banner">
-</picture>
-
-
 # 💫 About Me:
 🔭 I’m currently working on Javascript & ASP.Net<br>👯 I’m looking to collaborate on Backend<br>🌱 I’m currently learning GO/Golang<br>💬 Ask me about Backend<br>⚡ Backend is fun
 
