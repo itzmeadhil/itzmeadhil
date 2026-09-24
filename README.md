@@ -1,21 +1,116 @@
-# 💫 About Me:
-🔭 I’m currently working on Javascript & ASP.Net<br>👯 I’m looking to collaborate on Backend<br>🌱 I’m currently learning GO/Golang<br>💬 Ask me about Backend<br>⚡ Backend is fun
+<!-- ============================================================
+  This README is meant for the GitHub PROFILE repo (github.com/itzmeadhil/itzmeadhil).
+  All stat images below are LIVE widgets — they render your real
+  GitHub data automatically and need no maintenance.
+============================================================ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abdul-adhil-218647165) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdaadhil143@gmail.com) 
+# Abdul Adhil
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itzmeadhil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itzmeadhil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeadhil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Backend Engineer** — building fast, reliable, secure systems
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=640&height=64&lines=Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Scalable+APIs+%C2%B7+Microservices+%C2%B7+Cloud;Open+to+new+opportunities)](https://github.com/itzmeadhil)
+
+[![Profile views](https://komarev.com/ghpvc/?username=itzmeadhil&style=flat-square&color=6366f1)](https://github.com/itzmeadhil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-adhil-218647165)
+[![Email](https://img.shields.io/badge/Email-F43F5E?style=flat-square&logo=gmail&logoColor=white)](mailto:sdaadhil143@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itzmeadhil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+- Building a business park management platform serving **multiple sites** from scratch (Node.js, TypeScript, PostgreSQL, AWS).
+- Previously shipped **ValarHR**, a complete HRM backend, as the sole developer.
+- Cut API response times, drove uptime to **90%**, and reduced bug recurrence by **60%** via root-cause analysis.
+- Currently sharpening: **Go, Kubernetes, and system design**.
+
+---
+
+## GitHub at a glance
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmeadhil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=e8e8f0&ring_color=6366f1&border_radius=12)](https://github.com/itzmeadhil)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeadhil&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e8e8f0&border_radius=12)](https://github.com/itzmeadhil)
+
+</div>
+
+<div align="center">
+
+[![GitHub streak](https://streak-stats.demolab.com/?user=itzmeadhil&theme=dark&hide_border=true&border_radius=12&background=0d1117&stroke=85e89d&ring=6366f1&fire=6366f1&currStreakNum=6366f1&sideNums=6366f1&currStreakLabel=a855f7&sideLabels=a855f7&dates=e8e8f0)](https://github.com/itzmeadhil)
+
+</div>
+
+<div align="center">
+
+[![Contribution graph](https://ghchart.rshah.org/6366f1/itzmeadhil)](https://github.com/itzmeadhil)
+
+</div>
+
+---
+
+## What I build with
+
+<div align="center">
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)](https://www.linux.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+
+</div>
+
+---
+
+## Featured work
+
+**[Business Space Management Platform](https://aurbis.com/)** — business park management system built from scratch, serving multiple sites.
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=000)](https://aws.amazon.com)
+
+**[ValarHR — HRM Solution](https://valarhr.com/)** — complete HRM backend: employee self-service, project management, HR operations.
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
+
+**[Intelligent Chatbot System](https://github.com/itzmeadhil/itzmeadhil)** — chatbots with JWT auth and PostgreSQL-backed logic, deployed on AWS.
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+
+---
+
+## Currently
+
+- Building scalable backend systems in production.
+- Exploring **Go + Kubernetes** for the next level of performance.
+- Turning vague requirements into clean, reliable APIs.
+
+---
+
+## Let's talk
+
+Open to new projects, interesting problems, and opportunities to build something great.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-adhil-218647165)
+[![Email](https://img.shields.io/badge/Email-F43F5E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdaadhil143@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzmeadhil)
