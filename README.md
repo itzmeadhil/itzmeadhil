@@ -1,16 +1,23 @@
 <!-- ============================================================
   This README is meant for the GitHub PROFILE repo (github.com/itzmeadhil/itzmeadhil).
-  All stat images below are LIVE widgets — they render your real
-  GitHub data automatically and need no maintenance.
+
+  IMPORTANT — two companion files must live in the SAME repo folder as this README:
+    · profile-avatar.webp   (my circular avatar)
+    · also drop profile.webp if you want the original photo available there
+
+  All stat images below are LIVE widgets — they render your real GitHub data
+  automatically and need no maintenance.
 ============================================================ -->
 
 <div align="center">
 
+<img src="profile-avatar.webp" width="170" alt="Abdul Adhil" />
+
 # Abdul Adhil
 
-**Backend Engineer** — building fast, reliable, secure systems
+**Backend Engineer** — I turn vague requirements into fast, reliable APIs
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=640&height=64&lines=Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Scalable+APIs+%C2%B7+Microservices+%C2%B7+Cloud;Open+to+new+opportunities)](https://github.com/itzmeadhil)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=44&lines=Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Scalable+APIs+%7C+Microservices+%7C+Cloud+Architecture;Let%27s+build+something+great)](https://github.com/itzmeadhil)
 
 [![Profile views](https://komarev.com/ghpvc/?username=itzmeadhil&style=flat-square&color=6366f1)](https://github.com/itzmeadhil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-adhil-218647165)
@@ -22,10 +29,14 @@
 
 ## About me
 
-- Building a business park management platform serving **multiple sites** from scratch (Node.js, TypeScript, PostgreSQL, AWS).
-- Previously shipped **ValarHR**, a complete HRM backend, as the sole developer.
-- Cut API response times, drove uptime to **90%**, and reduced bug recurrence by **60%** via root-cause analysis.
-- Currently sharpening: **Go, Kubernetes, and system design**.
+- Building a business park management platform serving **multiple sites** from scratch — Node.js, TypeScript, PostgreSQL, AWS.
+- Previously shipped **ValarHR**, a complete HRM backend, as the **sole developer**.
+- Cut API response times, pushed uptime to **90%**, and reduced bug recurrence by **60%** through root-cause analysis.
+- Sharpening **Go, Kubernetes, and system design** every week.
+
+<div align="center">
+  <i>“Solid engineering is invisible — the fast API, the quiet deploy, the system that just works.”</i>
+</div>
 
 ---
 
@@ -111,6 +122,14 @@
 
 Open to new projects, interesting problems, and opportunities to build something great.
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-adhil-218647165)
 [![Email](https://img.shields.io/badge/Email-F43F5E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdaadhil143@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzmeadhil)
+
+</div>
+
+<div align="center">
+  <sub>Thanks for visiting — let's build something fast, together.</sub>
+</div>
